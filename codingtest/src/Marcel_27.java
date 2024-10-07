@@ -11,31 +11,31 @@ public class Marcel_27 {
       System.out.print(num + " ");
     }
   }
-}
 
-class Solution {
-  public int removeElement(int[] nums, int val) {
-    int l = 0;
-    int r = nums.length - 1;
+  static class Solution {
+    public int removeElement(int[] nums, int val) {
+      int l = 0;
+      int r = nums.length - 1;
 
-    while (l <= r) {
-      while (nums[l] != val && l <= r) {
-        l++;
+      while (l <= r) {
+        while (nums[l] != val && l <= r) {
+          l++;
+        }
+        while (nums[r] == val && l <= r) {
+          r--;
+        }
+
+        if (l >= r) {
+          break;
+        }
+
+        // swap
+        int temp = nums[l];
+        nums[l] = nums[r];
+        nums[r] = temp;
       }
-      while (nums[r] == val && l <= r) {
-        r--;
-      }
 
-      if (l >= r) {
-        break;
-      }
-
-      // swap
-      int temp = nums[l];
-      nums[l] = nums[r];
-      nums[r] = temp;
+      return l;
     }
-
-    return l;
   }
 }
