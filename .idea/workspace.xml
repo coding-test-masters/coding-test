@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63db2dad-28f3-4d1c-a9d4-0dd1c9711e1c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/solutions/Solution_27.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/Solution_88.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/Solution_88.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/Solution_26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution_26.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/Solution_27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution_27.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/Solution_88.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution_88.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,9 +33,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2n9XT3Zmpzbk0tLmkdoXvcCobPd" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
@@ -51,12 +53,32 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
+    "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\seong\Desktop\coding\Projects\coding-test\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="coding-test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="coding-test" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -73,7 +95,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728386269659</updated>
-      <workItem from="1728386270759" duration="1153000" />
+      <workItem from="1728386270759" duration="1427000" />
+      <workItem from="1728476319773" duration="7451000" />
     </task>
     <servers />
   </component>

@@ -1,4 +1,4 @@
-class Solution {
+class Solution_26 {
 
   public int removeDuplicates(int[] nums) {
 
