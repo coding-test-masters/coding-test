@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63db2dad-28f3-4d1c-a9d4-0dd1c9711e1c" name="Changes" comment="" />
+    <list default="true" id="63db2dad-28f3-4d1c-a9d4-0dd1c9711e1c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Solution_205.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution_383.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution_392.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,11 +44,15 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2n9XT3Zmpzbk0tLmkdoXvcCobPd" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.Solution_125.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;seongjun&quot;,
@@ -55,7 +64,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
@@ -65,6 +74,20 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\seong\Desktop\coding\Projects\coding-test\src" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Solution_125" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution_125" />
+      <module name="coding-test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Solution_125" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -85,6 +108,8 @@
       <workItem from="1728386270759" duration="1427000" />
       <workItem from="1728476319773" duration="7578000" />
       <workItem from="1728655214881" duration="3348000" />
+      <workItem from="1728964781111" duration="6883000" />
+      <workItem from="1729251917518" duration="3140000" />
     </task>
     <servers />
   </component>
