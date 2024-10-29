@@ -1,7 +1,5 @@
-import java.util.LinkedList;
-import java.util.Queue;
+class Solution_530 {
 
-class Solution {
   int minDiff = Integer.MAX_VALUE;
   Integer prev = null;
 
